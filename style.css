@@ -111,14 +111,12 @@ body {
 
 @keyframes animate3 {
     0% {
-        transform: scale(1.5);
-        background-position-x: -100px;
+        background-position-x: 150px;
         background-position-y: 0;
     }
 
     100% {
-        transform: scale(1.5);
-        background-position-x: -100px;
+        background-position-x: 150px;
         background-position-y: 600px;
     }
 }
